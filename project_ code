@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <meta property="og:title" content="Hélderbrando">
+    <meta property="og:description" content="A Raising Begginer Front developer">
+    <meta property="og:image" content="https://www.facebook.com/photo.php?fbid=496771974333578&id=140060013338111&set=a.143140466363399">
+    <meta property="og:url" content="http://127.0.0.1:5500/07_lesson/project_cv.html">
+    <meta property="og:type" content="website">
+</head>
+<body>
+    <header>
+        <hr>
+        <h1>Hélderbrando Domingos</h1>
+        <p><strong>Junior Frontend Developer</strong></p>
+        <address>
+            123 Gamek<br>
+            Gamek, ST5<br>
+            <a href="tel:931205061">(+244) 931205061<br></a>
+            <a href="mailto:mr.lazyjazz@gmail.com">mr.lazyjazz@gmail.com</a>
+        </address>
+    </header>
+    <main>
+        <p><strong>Skills</strong></p>
+        <p>
+            HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation.
+        </p>
+        <br>
+        <p><strong>Education</strong></p>
+        <p>
+            ITEL, Rangel - High School<br>
+            February 2023 to February 2024<br>
+            We programmed a lot, and made a lot of exercises!
+        </p>
+        <br>
+        <p><strong>Experience</strong></p>
+        <p>
+            Afronautas, Talatona - Frontend Developer<br>
+            March 2024 to December 2026
+            <ul>
+                <li>Promoted to techlead</li>
+                <li>Personal Growth</li>
+                <li>Bussiness growth</li>
+            </ul>
+        </p>
+
+        <p><strong>Skills</strong>: Cybersecurity skills and Designing skills</p>
+
+    </main>
+    <footer>
+        <br>
+        <p><strong>Across the Internet</strong></p>
+        <nav>
+            <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn,</a>
+            <a href="https://github.com/HelderbandoDomingos" target="_blank">Github</a>
+        </nav>
+    </footer>
+</body>
+</html>
